@@ -44,9 +44,6 @@
             <id>HTML</id>
           </State>
           <State>
-            <id>Handlebars/Mustache</id>
-          </State>
-          <State>
             <id>JavaScript</id>
           </State>
           <State>

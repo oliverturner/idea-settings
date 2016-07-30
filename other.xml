@@ -38,24 +38,15 @@
             <id />
           </State>
           <State>
-            <id>Error handlingJavaScript</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
             <id>JavaScript</id>
           </State>
           <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
-          <State>
-            <id>XML</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>CheckEmptyScriptTag</id>
+            <id>Code style issuesJavaScript</id>
           </State>
         </selected-state>
       </profile-state>

@@ -7,22 +7,23 @@
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern=".rlink" type="JSON" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
-      <mapping ext="theme" type="PHP" />
+      <mapping ext="flow" type="OCAML_MLI_FILE" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="profiles" type="PLAIN_TEXT" />
       <mapping pattern="serve" type="PLAIN_TEXT" />
-      <mapping pattern="dev" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="profiles" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="3684280887" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
       <mapping ext="pcss" type="SCSS" />

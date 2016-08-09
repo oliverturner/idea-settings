@@ -1,0 +1,9 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Angular-ui-router" categories="States;Views;Templates;TemplatePlaceholders;TopLevelTemplate" />
+      </map>
+    </option>
+  </component>
+</application>

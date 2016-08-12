@@ -1,15 +1,11 @@
 <templateSet group="user">
-  <template name="cl" value="console.log($END$)" description="console log" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$)" description="console.log" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="false" />
-      <option name="XML" value="false" />
-      <option name="JSON" value="false" />
-      <option name="CSS" value="false" />
-      <option name="Twig" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="SQL" value="false" />
-      <option name="PHP" value="false" />
-      <option name="OTHER" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>

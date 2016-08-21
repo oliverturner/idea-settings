@@ -2,19 +2,6 @@
   <template name="cl" value="console.log($END$)" description="console.log" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="//-" value="// $END$&#10;//-----------------------------------------------" description="separator-short" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>

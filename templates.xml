@@ -3551,6 +3551,34 @@
           <option name="key" value="wfsm:n" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="sel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="selw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="selc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="ins" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="upd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="tab" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="SQL" />
+          <option name="key" value="col" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Twig" />
           <option name="key" value="blk" />
         </TemplateKey>
@@ -3629,34 +3657,6 @@
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
           <option name="key" value="defn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="sel" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="selw" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="selc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="ins" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="upd" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="tab" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="col" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="PHP" />

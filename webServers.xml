@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c6e8e37b-75c0-46bb-b8f4-f435f692c187" name="dvt1" url="http://se.oturner.dvt1.tmeu.eudev1.websys.tmcs/">
-        <fileTransfer host="dvt1.tmeu.eudev1.websys.tmcs" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" passphrase="dfe3df8adfc6dfc5dfdcdfcfdf8adfdedfc2dfcfdf8adfecdfc5dfd2" username="tmweb" keyPair="true">
+        <fileTransfer host="dvt1.tmeu.eudev1.websys.tmcs" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsBwtlFjU04sSaDfgkEWxKV2TjjjK7ESYPqCNQOU9vu4pWQL1112bvzRsBbfwYfyh7kNOGfn2fBrBeghRBmfCQtjPUCYZrd2e3G0sc8ZtI9oohnjwHnrn1uCOUTjN7SLuVKwWClhSJVrp3SVL1KO/DKhW2AGCoUAfC+Z5J5KjBtpsdC9b91oYnvKxtl9jgLkitZzdZzE8EINi6LwpJ2cTsPiLSLWiPoRri/EiFcZ/V8DJhpFyNwTBKueDg5r8UnpL0g==</data>
   </component>
 </application>

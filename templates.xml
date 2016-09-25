@@ -3,22 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="t" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="T" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="T2" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="CD" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Zen HTML" />
           <option name="key" value="!!!" />
         </TemplateKey>
@@ -2824,18 +2808,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
-          <option name="key" value="trf:t" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
-          <option name="key" value="trf:tx" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
-          <option name="key" value="trf:ty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
           <option name="key" value="trf:tz" />
         </TemplateKey>
         <TemplateKey>
@@ -3559,26 +3531,6 @@
           <option name="key" value="selw" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="selc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="ins" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="upd" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="tab" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="SQL" />
-          <option name="key" value="col" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Twig" />
           <option name="key" value="blk" />
         </TemplateKey>
@@ -3648,10 +3600,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
-          <option name="key" value="us" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
           <option name="key" value="ref" />
         </TemplateKey>
         <TemplateKey>
@@ -3665,10 +3613,6 @@
         <TemplateKey>
           <option name="groupName" value="PHP" />
           <option name="key" value="forek" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
-          <option name="key" value="thr" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="PHP" />

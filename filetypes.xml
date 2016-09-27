@@ -19,6 +19,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="profiles" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />

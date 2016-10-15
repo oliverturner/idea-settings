@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ejs" type="HTML" />
+      <removed_mapping pattern=".flowconfig" type="Ini" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern=".rlink" type="JSON" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
@@ -12,6 +13,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="serve" type="PLAIN_TEXT" />
       <mapping pattern="dev" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="profiles" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />

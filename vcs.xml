@@ -54,8 +54,12 @@
           <option name="url" value="git@github.com:oliverturner/favicons-webpack-plugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:oturner/techradar-lambda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dev/github/jantimon" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev/clients/ticketmaster/ea/tech-radar" />
   </component>
 </application>

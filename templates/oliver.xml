@@ -4,12 +4,17 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="//-" value="// $END$&#10;//--------------------------------------------------------------------------------------------------" description="Separator (short)" toReformat="false" toShortenFQNames="true">
+  <template name="//--" value="// $END$&#10;//--------------------------------------------------------------------------------------------------" description="Separator (med)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="//--" value="//--------------------------------------------------------------------------------------------------&#10;// $END$&#10;//--------------------------------------------------------------------------------------------------" description="Separator (long)" toReformat="false" toShortenFQNames="true">
+  <template name="//---" value="//--------------------------------------------------------------------------------------------------&#10;// $END$&#10;//--------------------------------------------------------------------------------------------------" description="Separator (long)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="//-" value="// $END$&#10;//-----------------------------------------------" description="Separator (short)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

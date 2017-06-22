@@ -8,8 +8,8 @@
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="serve" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping pattern="profiles" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping ext="grqphql" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="3684280887" type="PLAIN_TEXT" />
@@ -28,8 +29,8 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
-      <mapping ext="njs" type="Twig" />
       <mapping ext="stmp" type="XML" />
+      <mapping ext="njs" type="Twig" />
       <mapping pattern="docker.*.yml" type="Dockerfile" />
     </extensionMap>
   </component>
